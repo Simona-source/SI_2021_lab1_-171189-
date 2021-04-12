@@ -1,0 +1,5 @@
+novi
+pet
+zborovi
+isto
+commit
